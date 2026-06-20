@@ -52,7 +52,7 @@ Area Charts
 Treemaps
 Interactive Metrics Dashboard
 🚀 Installation
-git clone https://github.com/your-username/startup-funding-dashboard.git
+git clone https://github.com/gauravkamble12/startup-funding-dashboard.git
 
 cd startup-funding-dashboard
 
